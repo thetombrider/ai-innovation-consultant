@@ -1,0 +1,7 @@
+streamlit
+langchain
+unstructured
+python-dotenv
+anthropic
+chromadb
+sentence-transformers
