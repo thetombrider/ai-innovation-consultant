@@ -1,7 +1,8 @@
 streamlit
-langchain
+langchain_community
 unstructured
 python-dotenv
 anthropic
 chromadb
 sentence-transformers
+openai
